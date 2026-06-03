@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rentit-seo-pages.onrender.com/robots.txt
+Sitemap: https://rentit-seo-pages.onrender.com/sitemap.xml
